@@ -1,5 +1,5 @@
-anggota kelompok
-husnul khotimah
-raisa putri Athaya
-surya mirfathul jannah
+anggota kelompok:
+husnul khotimah,
+raisa putri Athaya,
+surya mirfathul jannah,
 Baliana Daniswara
